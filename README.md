@@ -1,4 +1,4 @@
-- 👋 Hi, I’m tovicheung
+👋 Hi, I’m tovicheung
 
 I'm a Python maniac :)
 I enjoy tweaking Python logic and exploring Python builtins
