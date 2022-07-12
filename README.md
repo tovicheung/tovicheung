@@ -1,4 +1,7 @@
-- 👋 Hi, I’m "tovicheung
+- 👋 Hi, I’m tovicheung
+
+I'm a Python maniac :)
+I enjoy tweaking Python logic and exploring Python builtins
 
 <!---
 tovicheung/tovicheung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
